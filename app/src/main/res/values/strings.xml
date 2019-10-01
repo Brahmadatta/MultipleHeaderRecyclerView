@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MutlipleHeaderRecyclerViewExample</string>
+    <string name="header">Header</string>
+    <string name="second_header">Second Header</string>
+</resources>
